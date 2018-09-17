@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_275597_srii.needit_user" name="x_275597_srii.needit_user">194482a6dba0230040ba1120399619f0</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-17 19:10:16</sys_created_on>
+        <sys_id>ed444eeadba0230040ba1120399619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>194482a6dba0230040ba1120399619f0</sys_name>
+        <sys_package display_value="SRII" source="x_275597_srii">4fa12e61db20630040ba112039961947</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SRII">4fa12e61db20630040ba112039961947</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ed444eeadba0230040ba1120399619cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-17 19:10:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
